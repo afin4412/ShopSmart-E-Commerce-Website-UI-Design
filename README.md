@@ -58,6 +58,4 @@ Photoshop – Image editing & enhancement
 
 This UI design project demonstrates the process of creating an efficient and visually appealing online shopping experience. It reflects user-first thinking, modern visual aesthetics, and structured product presentation.
 
-📄 Summary
 
-This UI design project demonstrates the process of creating an efficient and visually appealing online shopping experience. It reflects user-first thinking, modern visual aesthetics, and structured product presentation.
